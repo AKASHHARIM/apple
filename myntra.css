@@ -9,6 +9,7 @@
     width: 1530px;
     height: 80px;
     box-shadow: 12px 12px 2px 1px rgba(216, 216, 221, 0.2);
+    flex-wrap: nowrap;
 }
 
    
